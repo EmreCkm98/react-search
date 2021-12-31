@@ -1,0 +1,132 @@
+.Landing {
+  position: relative;
+  width: 1280px;
+  height: 900px;
+
+  background: #ffffff;
+}
+.LandLogo {
+  position: absolute;
+  width: 278px;
+  height: 115px;
+  left: 440px;
+  top: 237px;
+  background: url('../../assets/tesodev.png');
+}
+.LandInput {
+  position: absolute;
+  width: 709px;
+  height: 46px;
+  left: 209px;
+  top: 426px;
+
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.LandButton {
+  position: absolute;
+  width: 138px;
+  height: 46px;
+  left: 934px;
+  top: 426px;
+
+  background: #204080;
+  border-radius: 8px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.SearchList {
+  position: absolute;
+  width: 709px;
+  height: 258px;
+  left: 209px;
+  top: 490px;
+
+  background: #ffffff;
+  border: 1px solid #484848;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.LandSearchedList {
+  width: 644px;
+  height: 52px;
+  left: 239px;
+  top: 508px;
+}
+.LandAdress {
+  width: 345px;
+  height: 31.42px;
+  left: 241px;
+  top: 508px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #484848;
+}
+.LandEmail {
+  width: 216px;
+  height: 31px;
+  left: 657px;
+  top: 502px;
+  margin-left: 150px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #484848;
+}
+.LandName {
+  width: 207px;
+  height: 26px;
+  left: 241px;
+  top: 534px;
+  float: left;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #686868;
+}
+.LandLine {
+  width: 644px;
+  height: 0px;
+  left: 239px;
+  top: 552.42px;
+  display: inline-flex;
+  border: 1px solid #585858;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.ShowButton {
+  width: 79px;
+  height: 17px;
+  left: 526px;
+  top: 722px;
+  margin-left: 300px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #000000;
+}
